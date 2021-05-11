@@ -1,2 +1,2 @@
 # test_EasyCLA
-Repository to test EasyCLA
+Github repository to test EasyCLA
