@@ -1,3 +1,3 @@
-# test_EasyCLA
+# test EasyCLA
 Github repository to test EasyCLA
 After authorization
